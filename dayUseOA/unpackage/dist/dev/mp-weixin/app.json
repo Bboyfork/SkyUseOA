@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/loading/loading",
+    "pages/resourceList/resourceList",
+    "pages/checkIn/checkIn",
+    "pages/register/register",
+    "pages/itemList/itemList",
+    "pages/newItem/newItem",
+    "pages/resourceRegister/resourceRegister",
+    "pages/index/index",
+    "pages/backlog/backlog",
+    "pages/staffInfoList/staffInfoList",
+    "pages/projectExperience/projectExperience",
+    "pages/projectMembers/projectMembers",
+    "pages/workUndergo/workUndergo",
+    "pages/workExperience/workExperience",
+    "pages/education/education",
+    "pages/socialRelations/socialRelations",
+    "pages/study/study",
+    "pages/itemUndergo/itemUndergo"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "天用OA",
+    "navigationBarBackgroundColor": "#007AFF",
+    "backgroundColor": "#F5F5F5"
+  },
+  "permission": {},
+  "usingComponents": {},
+  "sitemapLocation": "sitemap65.json"
+}

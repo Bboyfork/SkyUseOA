@@ -1,0 +1,59 @@
+
+.spouse,.member{
+	margin-top:30rpx;
+}
+.spouse>.title,.member .header .title{
+	font-size:36rpx;
+	font-weight: bold;
+}
+.addbtn{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	        justify-content: flex-start;
+	color:#1A8AFA;
+	font-weight: bold;
+}
+.member .header image{
+	width:22rpx;
+	margin:0 10rpx 0 0;
+}
+.member .header{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.memberList{
+	margin:30rpx 0;
+}
+.memberList .memberListItem{
+	padding: 0 30rpx;
+	background-color: #e6e6e6;
+}
+.memberListItem .uni-form-item:last-child{
+	margin-bottom:20rpx;
+}
+.button-sp-area{
+	margin:60rpx 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.saveBtn{
+	width:50%;
+}
+

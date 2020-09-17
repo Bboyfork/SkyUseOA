@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "资源池项目经验",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

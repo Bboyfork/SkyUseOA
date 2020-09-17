@@ -1,0 +1,25 @@
+
+.handle button{
+	margin-right:20rpx;
+}
+.content{
+	padding:20rpx 0;
+}
+.list {
+	padding: 20rpx 30rpx;
+	background-color: #e6e6e6;
+}
+.list>view {
+	margin-top: 20rpx;
+}
+.describe {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	/*必须结合的属性 ，将对象作为弹性伸缩盒子模型显示 。*/
+	-webkit-line-clamp: 2;
+	/*用来限制在一个块元素显示的文本的行数。*/
+	-webkit-box-orient: vertical;
+	color: #757575;
+}
+

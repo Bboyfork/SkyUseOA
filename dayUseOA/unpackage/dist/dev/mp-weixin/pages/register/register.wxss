@@ -1,0 +1,49 @@
+
+.header{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	margin-top:150rpx;
+}
+.header view{
+	width:200rpx;
+	text-align: center;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.header image{
+	width:200rpx;
+	border-radius: 50%;
+}
+.content {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	margin-top:30rpx;
+}
+.button-sp-area{
+	margin-top:60rpx;
+}
+.button-sp-area button{
+	margin:0 auto;
+	width:50%;
+}
+.getLocaBtn{
+	opacity: 0;
+	height:0;
+}
+
